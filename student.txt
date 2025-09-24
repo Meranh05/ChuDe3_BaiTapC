@@ -1,0 +1,11 @@
+2310103|Nguyen Van|Hung|24/09/2025|CTK43|Nam|999888777|0981.233.412|98 Nguyễn Công Trứ, Đà Lạt|Mạng máy tính,Hệ điều hành,Đồ án cơ sở,Phương trình NCKH,Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống
+2310104|Tran Thi|Lan|11/07/2003|CTK44|Nam|222333444|0902.233.445|34 Lý Thường Kiệt, Huế|Đồ án cơ sở,Phương trình NCKH,An toàn và bảo mật hệ thống
+2310105|Le Van|Phuc|05/03/2003|CTK45|Nam|333444555|0903.344.556|56 Hai Bà Trưng, Đà Nẵng|Đồ án cơ sở,Phương trình NCKH
+2310106|Pham Thi|Thao|29/11/2003|CTK44|Nam|444555666|0904.455.667|78 Nguyễn Huệ, TP.HCM|Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống
+2310107|Doan Ngoc|Khanh|02/12/2003|CTK47|Nam|555666777|0905566778|90 Trần Hưng Đạo, Quảng Nam|Mạng máy tính,Lập trình mạng
+2310108|Bui Thi|Mai|15/05/2003|CTK46|Nam|666777888|0906.677.889|21 Nguyễn Đình Chiểu, Đồng Nai|Hệ điều hành,Lập trình CSDL
+2310109|Hoang Van|Nam|23/04/2003|CTK47|Nam|777888999|0907788990|33 Phan Chu Trinh, Nha Trang|Đồ án cơ sở,An toàn và bảo mật hệ thống
+2310110|Vo Thi|Hoa|10/10/2003|CTK45|Nam|888999000|0908.899.001|45 Điện Biên Phủ, Cần Thơ|Mạng máy tính,Hệ điều hành
+2510001|Nguyen Van|B|24/09/2025|CTK43|Nam|999888777|0981.233.412|98 Nguyễn Công Trứ, Đà Lạt|Mạng máy tính,Hệ điều hành,Đồ án cơ sở,Phương trình NCKH,Lập trình trên thiết bị di động,An toàn và bảo mật hệ thống
+2510003|Vo Thi|K|10/10/2003|CTK45|Nam|888999000|0908.899.001|45 Điện Biên Phủ, Cần Thơ|Mạng máy tính,Hệ điều hành
+2510004|Doan Ngoc|Lee|02/12/2003|CTK47|Nam|555666777|0905.566.778|90 Trần Hưng Đạo, Quảng Nam|Mạng máy tính,Lập trình mạng
