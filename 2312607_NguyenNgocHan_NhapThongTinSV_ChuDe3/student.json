@@ -1,0 +1,206 @@
+[
+  {
+    "MSSV": "2310103",
+    "HoTenLot": "Nguyen Van",
+    "Ten": "Hung",
+    "NgaySinh": "2025-09-24T00:00:00",
+    "Lop": "CTK43",
+    "GioiTinh": "Nam",
+    "CMND": "999888777",
+    "SoDT": "0981.233.412",
+    "DiaChi": "98 Nguyễn Công Trứ, Đà Lạt",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Đồ án cơ sở",
+      "Phương trình NCKH",
+      "Lập trình trên thiết bị di động",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2310104",
+    "HoTenLot": "Tran Thi",
+    "Ten": "Lan",
+    "NgaySinh": "2003-07-11T00:00:00",
+    "Lop": "CTK44",
+    "GioiTinh": "Nam",
+    "CMND": "222333444",
+    "SoDT": "0902.233.445",
+    "DiaChi": "34 Lý Thường Kiệt, Huế",
+    "MonHocDK": [
+      "Đồ án cơ sở",
+      "Phương trình NCKH",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2310105",
+    "HoTenLot": "Le Van",
+    "Ten": "Phuc",
+    "NgaySinh": "2003-03-05T00:00:00",
+    "Lop": "CTK45",
+    "GioiTinh": "Nam",
+    "CMND": "333444555",
+    "SoDT": "0903.344.556",
+    "DiaChi": "56 Hai Bà Trưng, Đà Nẵng",
+    "MonHocDK": [
+      "Đồ án cơ sở",
+      "Phương trình NCKH"
+    ]
+  },
+  {
+    "MSSV": "2310106",
+    "HoTenLot": "Pham Thi",
+    "Ten": "Thao",
+    "NgaySinh": "2003-11-29T00:00:00",
+    "Lop": "CTK44",
+    "GioiTinh": "Nam",
+    "CMND": "444555666",
+    "SoDT": "0904.455.667",
+    "DiaChi": "78 Nguyễn Huệ, TP.HCM",
+    "MonHocDK": [
+      "Lập trình trên thiết bị di động",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2310107",
+    "HoTenLot": "Doan Ngoc",
+    "Ten": "Khanh",
+    "NgaySinh": "2003-12-02T00:00:00",
+    "Lop": "CTK47",
+    "GioiTinh": "Nam",
+    "CMND": "555666777",
+    "SoDT": "0905566778",
+    "DiaChi": "90 Trần Hưng Đạo, Quảng Nam",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Lập trình mạng"
+    ]
+  },
+  {
+    "MSSV": "2310108",
+    "HoTenLot": "Bui Thi",
+    "Ten": "Mai",
+    "NgaySinh": "2003-05-15T00:00:00",
+    "Lop": "CTK46",
+    "GioiTinh": "Nam",
+    "CMND": "666777888",
+    "SoDT": "0906.677.889",
+    "DiaChi": "21 Nguyễn Đình Chiểu, Đồng Nai",
+    "MonHocDK": [
+      "Hệ điều hành",
+      "Lập trình CSDL"
+    ]
+  },
+  {
+    "MSSV": "2310109",
+    "HoTenLot": "Hoang Van",
+    "Ten": "Nam",
+    "NgaySinh": "2003-04-23T00:00:00",
+    "Lop": "CTK47",
+    "GioiTinh": "Nam",
+    "CMND": "777888999",
+    "SoDT": "0907788990",
+    "DiaChi": "33 Phan Chu Trinh, Nha Trang",
+    "MonHocDK": [
+      "Đồ án cơ sở",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2310110",
+    "HoTenLot": "Vo Thi",
+    "Ten": "Hoa",
+    "NgaySinh": "2003-10-10T00:00:00",
+    "Lop": "CTK45",
+    "GioiTinh": "Nam",
+    "CMND": "888999000",
+    "SoDT": "0908.899.001",
+    "DiaChi": "45 Điện Biên Phủ, Cần Thơ",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "2510001",
+    "HoTenLot": "Nguyen Van",
+    "Ten": "B",
+    "NgaySinh": "2025-09-24T00:00:00",
+    "Lop": "CTK43",
+    "GioiTinh": "Nam",
+    "CMND": "999888777",
+    "SoDT": "0981.233.412",
+    "DiaChi": "98 Nguyễn Công Trứ, Đà Lạt",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Đồ án cơ sở",
+      "Phương trình NCKH",
+      "Lập trình trên thiết bị di động",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2510003",
+    "HoTenLot": "Vo Thi",
+    "Ten": "K",
+    "NgaySinh": "2003-10-10T00:00:00",
+    "Lop": "CTK45",
+    "GioiTinh": "Nam",
+    "CMND": "888999000",
+    "SoDT": "0908.899.001",
+    "DiaChi": "45 Điện Biên Phủ, Cần Thơ",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "2510005",
+    "HoTenLot": "Vo Thi",
+    "Ten": "P",
+    "NgaySinh": "2003-10-10T00:00:00",
+    "Lop": "CTK45",
+    "GioiTinh": "Nam",
+    "CMND": "888999000",
+    "SoDT": "0908.899.001",
+    "DiaChi": "45 Điện Biên Phủ, Cần Thơ",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "2510006",
+    "HoTenLot": "Vo Thi",
+    "Ten": "PCC",
+    "NgaySinh": "2003-10-10T00:00:00",
+    "Lop": "CTK45",
+    "GioiTinh": "Nam",
+    "CMND": "888999000",
+    "SoDT": "0908.899.001",
+    "DiaChi": "45 Điện Biên Phủ, Cần Thơ",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "2510007",
+    "HoTenLot": "Vo Thi",
+    "Ten": "PCCQAA",
+    "NgaySinh": "2003-10-10T00:00:00",
+    "Lop": "CTK45",
+    "GioiTinh": "Nam",
+    "CMND": "888999000",
+    "SoDT": "0908.899.001",
+    "DiaChi": "45 Điện Biên Phủ, Cần Thơ",
+    "MonHocDK": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ]
+  }
+]

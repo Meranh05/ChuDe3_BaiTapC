@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<ArrayOfSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SinhVien>
+    <MSSV>2310103</MSSV>
+    <HoTenLot>Nguyen Van</HoTenLot>
+    <Ten>Hung</Ten>
+    <NgaySinh>2025-09-24T00:00:00</NgaySinh>
+    <Lop>CTK43</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>999888777</CMND>
+    <SoDT>0981.233.412</SoDT>
+    <DiaChi>98 Nguyễn Công Trứ, Đà Lạt</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+      <string>Đồ án cơ sở</string>
+      <string>Phương trình NCKH</string>
+      <string>Lập trình trên thiết bị di động</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310104</MSSV>
+    <HoTenLot>Tran Thi</HoTenLot>
+    <Ten>Lan</Ten>
+    <NgaySinh>2003-07-11T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>222333444</CMND>
+    <SoDT>0902.233.445</SoDT>
+    <DiaChi>34 Lý Thường Kiệt, Huế</DiaChi>
+    <MonHocDK>
+      <string>Đồ án cơ sở</string>
+      <string>Phương trình NCKH</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310105</MSSV>
+    <HoTenLot>Le Van</HoTenLot>
+    <Ten>Phuc</Ten>
+    <NgaySinh>2003-03-05T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>333444555</CMND>
+    <SoDT>0903.344.556</SoDT>
+    <DiaChi>56 Hai Bà Trưng, Đà Nẵng</DiaChi>
+    <MonHocDK>
+      <string>Đồ án cơ sở</string>
+      <string>Phương trình NCKH</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310106</MSSV>
+    <HoTenLot>Pham Thi</HoTenLot>
+    <Ten>Thao</Ten>
+    <NgaySinh>2003-11-29T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>444555666</CMND>
+    <SoDT>0904.455.667</SoDT>
+    <DiaChi>78 Nguyễn Huệ, TP.HCM</DiaChi>
+    <MonHocDK>
+      <string>Lập trình trên thiết bị di động</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310107</MSSV>
+    <HoTenLot>Doan Ngoc</HoTenLot>
+    <Ten>Khanh</Ten>
+    <NgaySinh>2003-12-02T00:00:00</NgaySinh>
+    <Lop>CTK47</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>555666777</CMND>
+    <SoDT>0905566778</SoDT>
+    <DiaChi>90 Trần Hưng Đạo, Quảng Nam</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Lập trình mạng</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310108</MSSV>
+    <HoTenLot>Bui Thi</HoTenLot>
+    <Ten>Mai</Ten>
+    <NgaySinh>2003-05-15T00:00:00</NgaySinh>
+    <Lop>CTK46</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>666777888</CMND>
+    <SoDT>0906.677.889</SoDT>
+    <DiaChi>21 Nguyễn Đình Chiểu, Đồng Nai</DiaChi>
+    <MonHocDK>
+      <string>Hệ điều hành</string>
+      <string>Lập trình CSDL</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310109</MSSV>
+    <HoTenLot>Hoang Van</HoTenLot>
+    <Ten>Nam</Ten>
+    <NgaySinh>2003-04-23T00:00:00</NgaySinh>
+    <Lop>CTK47</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>777888999</CMND>
+    <SoDT>0907788990</SoDT>
+    <DiaChi>33 Phan Chu Trinh, Nha Trang</DiaChi>
+    <MonHocDK>
+      <string>Đồ án cơ sở</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310110</MSSV>
+    <HoTenLot>Vo Thi</HoTenLot>
+    <Ten>Hoa</Ten>
+    <NgaySinh>2003-10-10T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>888999000</CMND>
+    <SoDT>0908.899.001</SoDT>
+    <DiaChi>45 Điện Biên Phủ, Cần Thơ</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2510001</MSSV>
+    <HoTenLot>Nguyen Van</HoTenLot>
+    <Ten>B</Ten>
+    <NgaySinh>2025-09-24T00:00:00</NgaySinh>
+    <Lop>CTK43</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>999888777</CMND>
+    <SoDT>0981.233.412</SoDT>
+    <DiaChi>98 Nguyễn Công Trứ, Đà Lạt</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+      <string>Đồ án cơ sở</string>
+      <string>Phương trình NCKH</string>
+      <string>Lập trình trên thiết bị di động</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2510003</MSSV>
+    <HoTenLot>Vo Thi</HoTenLot>
+    <Ten>K</Ten>
+    <NgaySinh>2003-10-10T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>888999000</CMND>
+    <SoDT>0908.899.001</SoDT>
+    <DiaChi>45 Điện Biên Phủ, Cần Thơ</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2510005</MSSV>
+    <HoTenLot>Vo Thi</HoTenLot>
+    <Ten>P</Ten>
+    <NgaySinh>2003-10-10T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>888999000</CMND>
+    <SoDT>0908.899.001</SoDT>
+    <DiaChi>45 Điện Biên Phủ, Cần Thơ</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2510006</MSSV>
+    <HoTenLot>Vo Thi</HoTenLot>
+    <Ten>PCC</Ten>
+    <NgaySinh>2003-10-10T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>888999000</CMND>
+    <SoDT>0908.899.001</SoDT>
+    <DiaChi>45 Điện Biên Phủ, Cần Thơ</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </MonHocDK>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2510007</MSSV>
+    <HoTenLot>Vo Thi</HoTenLot>
+    <Ten>PCCQAA</Ten>
+    <NgaySinh>2003-10-10T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <GioiTinh>Nam</GioiTinh>
+    <CMND>888999000</CMND>
+    <SoDT>0908.899.001</SoDT>
+    <DiaChi>45 Điện Biên Phủ, Cần Thơ</DiaChi>
+    <MonHocDK>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+    </MonHocDK>
+  </SinhVien>
+</ArrayOfSinhVien>
